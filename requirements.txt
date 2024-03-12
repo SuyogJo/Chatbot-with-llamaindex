@@ -1,0 +1,12 @@
+pip install openai
+pip install llama-index
+pip install pypdf
+pip install python-dotenv
+pip install instructorEmbeddings
+pip install torch
+pip install sentence-transformers==2.2.2
+pip install openai
+pip install llama_index
+pip install llama-index-vector-stores-weaviate
+pip install llama-index-embeddings-huggingface
+pip install transformers
