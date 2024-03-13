@@ -1,4 +1,3 @@
-import os
 import embedding
 
 inp = input("Please enter your prompt: ")
