@@ -32,6 +32,10 @@ Go to [```https://openai.com/product```](https://openai.com/product) and create 
 
 Upload a document in the ```data``` folder, one which you want to communicate with. After doing all the previous steps, run app.py file in the terminal ```python app.py``` to interact with the document through the chatbot. Enter a prompt when it asks you for one, and the chatbot will respond.
 
+## Demo of the Chatbot
+
+https://github.com/SuyogJo/Chatbot-with-llamaindex/assets/60322402/383d64f5-8541-4bfd-bfbf-f9ca7277eea7
+
 ## Modules Details
 
 > ### ingestion.py
