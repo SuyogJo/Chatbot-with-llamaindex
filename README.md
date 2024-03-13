@@ -30,7 +30,7 @@ Go to [```https://openai.com/product```](https://openai.com/product) and create 
 
 ## Usage Instruction
 
-After doing all the previous steps, run app.py file in the terminal ```python app.py``` to interact with the chatbot. Enter a prompt when it asks you for one, and the llm will respond.
+Upload a document in the ```data``` folder, one which you want to communicate with. After doing all the previous steps, run app.py file in the terminal ```python app.py``` to interact with the document through the chatbot. Enter a prompt when it asks you for one, and the chatbot will respond.
 
 ## Modules Details
 
